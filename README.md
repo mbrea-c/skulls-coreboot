@@ -1,0 +1,2 @@
+# skulls-coreboot
+Coreboot rom
